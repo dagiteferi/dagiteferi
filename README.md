@@ -6,7 +6,7 @@ I learned about programming for the first time when my ICT explained to me how c
 - 👀 I’m interested in web development and programming 
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...dagiteferi2011@gmail.com
 
 <!---
 dagiteferi/dagiteferi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
