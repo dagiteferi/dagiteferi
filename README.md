@@ -1,7 +1,7 @@
                                                    - 👋 Hi, I’m @dagiteferi
 
 
-I have heard about programming for the first time when my ICT explained to me how coding is used in software. But in high school, when I developed numerous websites using HTML, CSS, and JS(REACT, NODE ,EXPRESS JS) and mangoDb , mySql systems using C++, that's when I really realized it was my passion . I made the decision to educate myself. Now that numerous online courses and numerous real-world projects have been accomplished.
+I have heard about programming for the first time when my ICT explained to me how coding is used in software. But in high school, when I developed numerous websites using HTML, CSS, and JS(REACT, NODE ,EXPRESS JS) and mongoDb , mySql systems using C++, that's when I really realized it was my passion . I made the decision to educate myself. Now that numerous online courses and numerous real-world projects have been accomplished.
 
 <table>
   <tr>
