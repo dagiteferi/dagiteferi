@@ -59,6 +59,9 @@
 ![SQL](https://img.shields.io/badge/sql-%230066CC.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dagiteferi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p>
  
