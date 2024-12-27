@@ -10,9 +10,8 @@
 <br>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently Learing on **Ai, Data science , ML **
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python , Ai, Data science , ML**
 
 - 👨‍💻 All of my projects are available at [https://dagmawipro.netlify.app/](https://dagmawipro.netlify.app/)
 
