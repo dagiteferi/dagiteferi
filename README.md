@@ -79,6 +79,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%2300C4B4.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%236B46C1.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
 
 <br><br>
