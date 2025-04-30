@@ -1,27 +1,43 @@
-<h1 align="center">Hi 👋, I'm dagiteferi</h1>
-<h3 align="left">I'm Dagmawi Teferi  Full-Stack Developer! </h3> 
-<h3 align="center">I have heard about programming for the first time when my ICT explained to me how coding is used in software. But in high school, when I developed numerous websites using HTML, CSS, and JS(REACT, NODE ,EXPRESS JS) and mongoDb , mySql systems using C++, that's when I really realized it was my passion . I made the decision to educate myself. Now that numerous online courses and numerous real-world projects have been accomplished.</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#2e86de;">Dagmawi Teferi</span></h1>
+<h3 align="center" style="font-style: italic; color: #555;">A Full-Stack Developer & AI/ML Engineer</h3>
 
-<img align="left" alt="coding" width ="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true">
+<p align="censdter" style="max-width: 800px; margin: auto; font-size: 17px; line-height: 1.6; color: #333;">
+  My journey into tech began with a spark of curiosity when my ICT teacher first introduced me to how software shapes the digital world. 
+  That spark quickly turned into a passion. In high school, I began crafting websites using <strong>HTML, CSS, and JavaScript</strong>—exploring frameworks like <strong>React</strong>, <strong>Node.js</strong>, and <strong>Express.js</strong>. As I progressed, I expanded my skills into backend development with <strong>MongoDB</strong>, <strong>MySQL</strong>, and even <strong>C++</strong>.
+</p>
 
-<p align="left"><h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=dagiteferi&label=Profile%20views&color=0e75b6&style=flat" alt="dagiteferi" /> </p>
+<p align="sd" style="max-width: 800px; margin: auto; font-size: 17px; line-height: 1.6; color: #333;">
+  With a strong foundation in <strong>Computer Science</strong>, I’ve deepened my knowledge through hands-on experience and continuous learning. 
+  Over time, I’ve built and deployed impactful, real-world projects—from intelligent <strong>fraud detection systems</strong> and <strong>credit scoring models</strong> to robust <strong>medical data warehouses</strong> powered by <strong>FastAPI</strong> and <strong>YOLO</strong>.
+</p>
 
+<p align="gh" style="max-width: 800px; margin: auto; font-size: 17px; line-height: 1.6; color: #333;">
+  Today, I bring together the power of <strong>machine learning</strong>, <strong>web development</strong>, and <strong>data engineering</strong> to build scalable, human-centered solutions that make a difference.
+</p>
+
+
+<img align="left" alt="coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dagiteferi&label=Profile%20views&color=0e75b6&style=flat" alt="dagiteferi" />
+</p>
 
 <br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture>
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="50px" alt="About Me GIF">
+</picture><strong>About Me</strong>
+<!-- <h3><strong>About Me</strong></h3> -->
 
+<ul>
 
-- 🌱 I’m currently learning **python , Ai, Data science , ML**
+<li>🌱 Currently working on the exciting world of <strong>Python</strong>, <strong>AI</strong>, <strong>Data Science</strong>, and <strong>Machine Learning</strong>.</li>
 
-- 👨‍💻 All of my projects are available at [https://dagmawipro.netlify.app/](https://dagmawipro.netlify.app/)
-
-- 💬 Ask me about **React, Node.js and MongoDB**
-
-- 📫 How to reach me **dagiteferi2011@gmail.com**
-
-- 👨‍💻 All of my projects are available at [https://dagmawipro.netlify.app/](https://dagmawipro.netlify.app/)
+<li>🚀 Check out all of my projects here: <a href="https://dagmawipro.netlify.app/" target="_blank"><strong>dagmawipro.netlify.app</strong></a></li>
+<li>💬 Always happy to connect and chat about <strong>full-stack development</strong> or <strong>machine learning</strong> solutions.</li>
+ <li>📫 You can reach me at: <a href="mailto:dagiteferi2011@gmail.com">dagiteferi2011@gmail.com</a></li>
+</ul>
  
-<br>
+</br>
 
 <h2 align="left">connected with me </h2>
 <div align="center">
