@@ -78,7 +78,7 @@
 ![DVC](https://img.shields.io/badge/DVC-%2306090A.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![LangGraph](https://img.shields.io/badge/LangGraph-%2300C4B4.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
 
 <br><br>
