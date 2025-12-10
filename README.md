@@ -95,7 +95,7 @@
 
 <br><br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dagiteferi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-nine.vercel.app/?username=dagiteferi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p>
