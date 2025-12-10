@@ -3,7 +3,7 @@
 
 <p align="censdter" style="max-width: 800px; margin: auto; font-size: 17px; line-height: 1.6; color: #333;">
   My journey into tech began with a spark of curiosity when my ICT teacher first introduced me to how software shapes the digital world. 
-  That spark quickly turned into a passion. In high school, I began crafting websites using <strong>HTML, CSS, and JavaScript</strong>—exploring frameworks like <strong>React</strong>, <strong>Node.js</strong>, and <strong>Express.js</strong>. As I progressed, I expanded my skills into backend  and AI development with <strong>MongoDB</strong>, <strong>MySQL</strong>.
+  That spark quickly turned into a passion. In high school, I began crafting websites using <strong>HTML, CSS, and JavaScript</strong>—exploring frameworks like <strong>React</strong>, <strong>Node.js</strong>, and <strong>Express.js</strong>. As I progressed, I expanded my skills into backend  and AI development with <strong>MongoDB</strong>, <strong>MySQL</strong>,<strong>Python</strong>.
 </p>
 
 <p align="sd" style="max-width: 800px; margin: auto; font-size: 17px; line-height: 1.6; color: #333;">
