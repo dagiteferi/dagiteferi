@@ -15,7 +15,7 @@
   Today, I bring together the power of <strong>machine learning</strong>, <strong>web development</strong>, and <strong>data engineering</strong> to build scalable, human-centered solutions that make a difference.
 </p>
 <p align="center">
-  <a href="https://dagmawipro.netlify.app/" target="_blank">
+  <a https://dagmawi-teferi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/dagmawi-teferi" target="_blank">
