@@ -15,7 +15,7 @@
   Today, I bring together the power of <strong>machine learning</strong>, <strong>web development</strong>, and <strong>data engineering</strong> to build scalable, human-centered solutions that make a difference.
 </p>
 <p align="center">
-  <a https://dagmawi-teferi.vercel.app/" target="_blank">
+  <a href ="https://dagmawi-teferi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/dagmawi-teferi" target="_blank">
@@ -43,7 +43,7 @@
 
 <li>🌱 Currently working on the exciting world of <strong>Python</strong>, <strong>AI</strong>, <strong>Data Science</strong>, and <strong>Machine Learning</strong>.</li>
 
-<li>🚀 Check out all of my projects here: <a href="https://dagmawipro.netlify.app/" target="_blank"><strong>dagmawipro.netlify.app</strong></a></li>
+<li>🚀 Check out all of my projects here: <a href="https://dagmawi-teferi.vercel.app/" target="_blank"><strong>dagmawi-teferi</strong></a></li>
 <li>💬 Always happy to connect and chat about <strong>full-stack development</strong> or <strong>machine learning</strong> solutions.</li>
  <li>📫 You can reach me at: <a href="mailto:dagiteferi2011@gmail.com">dagiteferi2011@gmail.com</a></li>
 </ul>
