@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#2e86de;">Dagmawi Teferi</span></h1>
-<h3 align="center" style="font-style: italic; color: #555;">A Full-Stack Developer & AI/ML Engineer</h3>
+<h3 align="center" style="font-style: italic; color: #555;">
+AI/ML Engineer | Full-Stack Developer | 2x Hackathon winner</h3>
 
 <p align="censdter" style="max-width: 800px; margin: auto; font-size: 17px; line-height: 1.6; color: #333;">
   My journey into tech began with a spark of curiosity when my ICT teacher first introduced me to how software shapes the digital world. 
