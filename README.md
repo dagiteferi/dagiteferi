@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:0d47a1&height=200&section=header&text=Dagmawi%20Teferi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%202%C3%97%20Hackathon%20Winner&descAlignY=60&descSize=18&descColor=90caf9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:0d47a1&height=200&section=header&text=Dagmawi%20Teferi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%203%C3%97%20Hackathon%20Winner&descAlignY=60&descSize=18&descColor=90caf9&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+that+works+in+production%2C+not+just+demos;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+FastAPI+%E2%80%A2+Go+Microservices;1st+Place+%E2%80%94+Harvard+HSIL+Hackathon+2026;Open+to+collaborations+on+impactful+AI+systems)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+AI+that+works+in+production%2C+not+just+demos;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+FastAPI+%E2%80%A2+Go+Microservices;3x+Hackathon+Winner+%F0%9F%8F%86+Hat-Trick+Complete;Open+to+collaborations+on+impactful+AI+systems)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -14,30 +14,34 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logoColor=white)](https://dagmawi-teferi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dagmawi-teferi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dagmawi-teferi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagiteferi2011@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dagiteferi)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dagiteferi&label=Profile+Views&color=0e75b6&style=flat)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dagiteferi&label=Profile+Views&color=0e75b6&style=flat-square)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/dagiteferi?label=Followers&style=flat-square&color=0e75b6)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/dagiteferi?label=Stars&style=flat-square&color=0e75b6)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding Animation" width="380" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" />
+<img align="right" alt="Coding Animation" width="360" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" />
 
 ### 👨‍💻 About Me
 
 I build AI systems that are **reliable and trustworthy in production** — not just impressive in demos. The gap between a polished prototype and a dependable deployed system is where I do my best work.
 
-- 🏆 **1st Place** — Harvard HSIL Hackathon 2026
-- 🥈 **2nd Place** — Kifiya Inspire Hackathon
-- 🎓 **B.Sc. Computer Science** — GPA: **3.94 / 4.0**
-- 🔬 Domains: Finance · Healthcare · Education · Public Health
+- 🔬 Domains: **Finance · Healthcare · Education · Public Health**
 - 🌍 Based in **Addis Ababa, Ethiopia**
 - 📫 Reach me: **dagiteferi2011@gmail.com**
 - 💬 Ask me about **Agentic AI · RAG Pipelines · Microservices**
+- 🚀 Currently building production-grade microservices in **Go** at InnoSphere Technologies
 
 <br clear="right"/>
 
@@ -77,46 +81,48 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages**
 
-### AI / ML
-![LangGraph](https://img.shields.io/badge/LangGraph-00C4B4?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,cpp,html,css&theme=dark" />
 
-### Frameworks & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+<br/><br/>
 
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VectorDB](https://img.shields.io/badge/Vector_DB-6B2FBF?style=for-the-badge&logoColor=white)
+**Frameworks & Backend**
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,nodejs,express&theme=dark" />
+
+<br/><br/>
+
+**Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,kafka&theme=dark" />
+
+<br/><br/>
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,postman,vscode,pycharm,linux&theme=dark" />
+
+<br/><br/>
+
+**AI / ML**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-00C4B4?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-222222?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Specialties**
+
+![VectorDB](https://img.shields.io/badge/Vector_DB-6B2FBF?style=flat-square&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-E25A1C?style=flat-square&logo=apache&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=flat-square&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logoColor=white)
 
 </div>
 
@@ -139,7 +145,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 ---
 
-## 🏆 Featured Projects
+## 📂 Featured Projects
 
 <div align="center">
 
@@ -148,7 +154,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 </div>
 
-> Multi-layer RAG-based AI agent for **real-time outbreak detection**, integrating fragmented health data from community, facility, and One Health sources. Built a full-stack solution with React, FastAPI, CrewAI, YOLO, and Vision-Language Models under 48-hour constraints — delivering actionable alerts for public health officials faster than traditional systems.
+> Multi-layer RAG-based AI agent for **real-time outbreak detection**, integrating fragmented health data from community, facility, and One Health sources. React + FastAPI + CrewAI + YOLO + Vision-Language Models — shipped under 48-hour constraints.
 
 ---
 
@@ -159,7 +165,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 </div>
 
-> Full-stack adaptive learning platform with LangGraph-powered tutoring engine for personalized learning paths, weak-topic detection, and adaptive question generation. Telegram-based exam interface (aiogram FSM) + CI/CD via Docker and GitHub Actions.
+> Adaptive learning platform with agentic tutoring engine, weak-topic detection, and adaptive question generation. Telegram-based exam interface (aiogram FSM) + CI/CD via Docker and GitHub Actions.
 
 [→ View Project](#)
 
@@ -167,12 +173,12 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 <div align="center">
 
-### 🏠 AI House Rent Management Platform
-**Graduation Project · ≥94% Test Coverage · Multilingual AI**
+### 🏠 AI House Rent Management Platform — *Graduation Project*
+**≥94% Test Coverage · Multilingual AI · PostGIS Geospatial**
 
 </div>
 
-> 5+ async FastAPI microservices with PostgreSQL + PostGIS. LangGraph autonomous agents (Gemini Flash) for property recommendations. Multilingual RAG chatbot supporting English and two Ethiopian languages with real-time transport cost via Gebeta Maps API.
+> 5+ async FastAPI microservices with PostgreSQL + PostGIS. LangGraph autonomous agents (Gemini Flash) for property recommendations. Multilingual RAG chatbot in English and two Ethiopian languages with real-time transport cost via Gebeta Maps API.
 
 [→ View Project](#)
 
@@ -193,12 +199,12 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 <div align="center">
 
-### 🔍 Fraud Detection System
-**2nd Place · Kifiya Inspire Hackathon · 83% Accuracy · 92% Precision**
+### 🔍 Fraud Detection System — *2nd Place, Kifiya Inspire Hackathon*
+**83% Accuracy · 92% Precision · 71% Recall**
 
 </div>
 
-> Random Forest model for e-commerce fraud detection. Docker-containerized REST API with real-time Dash dashboards for fraud monitoring and insights.
+> Random Forest model for e-commerce fraud detection. Docker-containerized REST API with real-time Dash dashboards for monitoring and insights.
 
 [→ View Project](#)
 
@@ -211,7 +217,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 </div>
 
-> Ethiopian medical data warehouse scraping Telegram channels. YOLO-based object detection for automated categorization. FastAPI backend with CI/CD pipelines.
+> Ethiopian medical data warehouse aggregating Telegram channels. YOLO-based object detection for automated categorization. FastAPI + CI/CD.
 
 [→ View Project](#)
 
@@ -223,7 +229,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 </div>
 
-> Browser extension (React + TypeScript) delivering Amharic Bible verses via scheduled notifications and custom reading plans. FastAPI backend with optimized PostgreSQL queries and in-memory caching.
+> Browser extension (React + TypeScript) delivering Amharic Bible verses via scheduled notifications and custom reading plans. FastAPI backend with optimized PostgreSQL and in-memory caching.
 
 [→ View Project](#)
 
@@ -233,32 +239,16 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dagiteferi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagiteferi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dagiteferi&theme=tokyonight&hide_border=true" />
-
-</div>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dagiteferi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagiteferi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dagiteferi&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=dagiteferi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=dagiteferi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -268,7 +258,15 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dagiteferi/dagiteferi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dagiteferi/dagiteferi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dagiteferi/dagiteferi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dagiteferi/dagiteferi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dagiteferi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
