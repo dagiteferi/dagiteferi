@@ -63,6 +63,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 > *"The gap between an impressive demo and dependable production AI is where the real work happens."*
 
+
 ---
 
 ## 🚀 What I Build
@@ -81,48 +82,80 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,cpp,html,css&theme=dark" />
+**🐍 Languages**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,cpp&theme=dark" />
 
-**Frameworks & Backend**
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,react,nodejs,express&theme=dark" />
+**⚙️ Backend & Frameworks**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,react&theme=dark" />
 
-**Databases & Messaging**
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,kafka&theme=dark" />
+**🗄️ Databases**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
 
-**DevOps & Tools**
+</td>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,postman,vscode,pycharm,linux&theme=dark" />
+**☁️ DevOps & Infrastructure**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,linux&theme=dark" />
 
-**AI / ML**
+</td>
+</tr>
+<tr>
+<td align="center">
 
-![LangGraph](https://img.shields.io/badge/LangGraph-00C4B4?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-222222?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**🛠️ Tools & Environments**
 
-**Specialties**
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,github&theme=dark" />
 
-![VectorDB](https://img.shields.io/badge/Vector_DB-6B2FBF?style=flat-square&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-E25A1C?style=flat-square&logo=apache&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=flat-square&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logoColor=white)
+</td>
+<td align="center">
+
+**🌐 Web Technologies**
+
+<img src="https://skillicons.dev/icons?i=html,css,typescript,graphql&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**🤖 AI · ML · Agentic Systems**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-00C4B4?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br/>
+
+**🏗️ Architecture & Data**
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector_DB-6B2FBF?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logoColor=white)
 
 </div>
 
