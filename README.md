@@ -200,7 +200,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 > Adaptive learning platform with agentic tutoring engine, weak-topic detection, and adaptive question generation. Telegram-based exam interface (aiogram FSM) + CI/CD via Docker and GitHub Actions.
 
-[→ View Project](#)
+[→ View Project](https://github.com/dagiteferi/TeleExam-AI)
 
 ---
 
@@ -213,7 +213,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 > 5+ async FastAPI microservices with PostgreSQL + PostGIS. LangGraph autonomous agents (Gemini Flash) for property recommendations. Multilingual RAG chatbot in English and two Ethiopian languages with real-time transport cost via Gebeta Maps API.
 
-[→ View Project](#)
+[→ View Project](https://github.com/rent-management-system)
 
 ---
 
@@ -226,7 +226,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 > ML-based credit risk assessment for a buy-now-pay-later (BNPL) service. Full EDA, feature engineering, model training, and REST API for production integration.
 
-[→ View Project](#)
+[→ View Project](https://github.com/dagiteferi/Credit-scoring-model)
 
 ---
 
@@ -252,7 +252,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 > Ethiopian medical data warehouse aggregating Telegram channels. YOLO-based object detection for automated categorization. FastAPI + CI/CD.
 
-[→ View Project](#)
+[→ View Project](https://github.com/dagiteferi/Ethiopian-Medical-DataWarehouse)
 
 ---
 
@@ -264,7 +264,7 @@ Today, I bring together **machine learning**, **backend engineering**, and **dat
 
 > Browser extension (React + TypeScript) delivering Amharic Bible verses via scheduled notifications and custom reading plans. FastAPI backend with optimized PostgreSQL and in-memory caching.
 
-[→ View Project](#)
+[→ View Project](https://github.com/dagiteferi/read-Bible-from-browser-extension)
 
 ---
 
