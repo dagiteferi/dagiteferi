@@ -37,11 +37,11 @@
 
 I build AI systems that are **reliable and trustworthy in production** — not just impressive in demos. The gap between a polished prototype and a dependable deployed system is where I do my best work.
 
-- 🔬 Domains: **Finance · Healthcare · Education · Public Health**
+- 🔬 Domains: **Finance · Healthcare · Education **
 - 🌍 Based in **Addis Ababa, Ethiopia**
 - 📫 Reach me: **dagiteferi2011@gmail.com**
 - 💬 Ask me about **Agentic AI · RAG Pipelines · Microservices**
-- 🚀 Currently building production-grade microservices in **Go** at InnoSphere Technologies
+
 
 <br clear="right"/>
 
@@ -59,7 +59,7 @@ My journey into tech began when my **ICT teacher** first showed me how software 
 
 As my curiosity grew, so did my ambitions. I pushed deeper into backend engineering with **MongoDB**, **MySQL**, and **Python** — and eventually into the world of **AI and Machine Learning**. Each project I built was more complex than the last: from simple web interfaces to **fraud detection systems**, **medical data warehouses**, and **multi-agent AI pipelines**.
 
-Today, I bring together **machine learning**, **backend engineering**, and **data pipelines** to build scalable, human-centered systems that make a real difference — in finance, healthcare, education, and public health.
+Today, I bring together **machine learning**, **backend engineering**, and **data pipelines** to build scalable, human-centered systems that make a real difference — in finance, healthcare, education.
 
 > *"The gap between an impressive demo and dependable production AI is where the real work happens."*
 
